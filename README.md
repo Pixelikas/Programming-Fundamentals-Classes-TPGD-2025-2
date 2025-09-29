@@ -1,4 +1,4 @@
-# Programming-Logic-Classes-TPGD-2025-2
+# Programming-Fundamentals-Classes-TPGD-2025-2
 
 Permanent repository for Digital Games class coding files.<br>
 
