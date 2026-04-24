@@ -376,7 +376,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 4
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -595,6 +595,25 @@ MonoBehaviour:
     m_Flags: 0
   estaAndando: 0
   animatorBear: {fileID: 748643587}
+  puloJogador:
+    m_Name: Pulo Jogador
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: d5b89f36-5631-4d4d-8457-4a4695738800
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: c96cb57f-962a-4a22-8376-27d71210fa26
+      m_Path: <Keyboard>/space
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Pulo Jogador
+      m_Flags: 0
+    m_Flags: 0
+  estaNoChao: 1
+  spriteJogador: {fileID: 748643585}
 --- !u!1 &750172872
 GameObject:
   m_ObjectHideFlags: 0
