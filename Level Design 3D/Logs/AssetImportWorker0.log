@@ -1,0 +1,442 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/respin/6000.3.6f1-732c1ec89f18' branch; Version is '6000.3.6f1 (bbb010bdb8a3) revision 12300304'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) CoreSingleLanguage' Language: 'pt' Physical Memory: 7530 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lucas" at "2026-05-27T23:15:09.9551028Z"
+System  architecture: x64
+Process architecture: x64
+Date: 2026-05-27T23:15:09Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.6f1-x86_64\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Senai/2026/TPGD - Técnico em Programação de Jogos Digitais/_Protótipos e Projetos/Level Design 3D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60909
+-licensingIpc
+LicenseClient-lucas
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: D:/Senai/2026/TPGD - Técnico em Programação de Jogos Digitais/_Protótipos e Projetos/Level Design 3D
+D:/Senai/2026/TPGD - Técnico em Programação de Jogos Digitais/_Protótipos e Projetos/Level Design 3D
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [18908]  Target information:
+
+Player connection [18908]  * "[IP] 10.1.62.5 [Port] 0 [Flags] 2 [Guid] 1603323231 [EditorId] 1603323231 [Version] 1048832 [Id] WindowsEditor(7,Pixelikas-Note) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [18908] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [18908] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1337.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.6f1 (bbb010bdb8a3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.6f1-x86_64/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Senai/2026/TPGD - Técnico em Programação de Jogos Digitais/_Protótipos e Projetos/Level Design 3D/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x164c)
+    Vendor:   ATI
+    VRAM:     3765 MB
+    Driver:   31.0.21924.61
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              34b514c2c877481787f24e4584146bef
+  Correlation Id:          59dca2200435f7b7e450ca22a16174c1
+  External correlation Id: 707767249717540823
+  Machine Id:              22FugEtRRB55Vxw5tX4TU2Hhnp4=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-lucas" (connect: 0.00s, validation: 0.02s, handshake: 3.77s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-lucas-notifications" at "2026-05-27T23:15:13.7495793Z"
+[Licensing::Module] Licensing Background thread has ended after 3.80s
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.6f1-x86_64/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.6f1-x86_64/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.6f1-x86_64/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56764
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.6f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006790 seconds.
+- Loaded All Assemblies, in  1.338 seconds
+Native extension for WindowsStandalone target not found
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.712 seconds
+Domain Reload Profiling: 4044ms
+	BeginReloadAssembly (505ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (115ms)
+	RebuildNativeTypeToScriptingClass (39ms)
+	initialDomainReloadingComplete (143ms)
+	LoadAllAssembliesAndSetupDomain (528ms)
+		LoadAssemblies (493ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (519ms)
+			TypeCache.Refresh (515ms)
+				TypeCache.ScanAssembly (477ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (2714ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2549ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (145ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (338ms)
+			ProcessInitializeOnLoadAttributes (925ms)
+			ProcessInitializeOnLoadMethodAttributes (1131ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/RingQueuePerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkContainerParallel.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/LightTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/Light2DTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ParallelHashMapPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.Tests.Playmode/FixedListPlaymodeTests.gen.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/QueuePerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/Deprecated.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkAllocator.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/ShaderTypes.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/DecalTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Runtime-PrivateShared/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/Debug/DebugViewEnums.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ListPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/HashSetPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/NativeArraySortPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Editor-PrivateShared/AssetCallbacks/AssetCreationUtil.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/PixelPerfectCameraTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/ShadowCaster2DTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkContainer.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/RuntimeTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/HashMapPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/QueueParallelPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ParallelHashSetPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/LightClusteringTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests.Internal/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.BurstCompatibilityGen/BurstCompatibilityTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/UnsafeListPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.ai.navigation/Tests/VerifyEditorInPlaymode/NavMeshLinkEditorTestsInPlaymode.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ArrayPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal-config/Runtime/ShaderConfig.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.shadergraph/ShaderGraphLibrary/DummyShaderGraphLibrary.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/UnsafeStreamPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Editor-PrivateShared/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/RingQueuePerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkContainerParallel.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/LightTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/Light2DTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ParallelHashMapPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.Tests.Playmode/FixedListPlaymodeTests.gen.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/QueuePerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/Deprecated.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkAllocator.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/ShaderTypes.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/DecalTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Runtime-PrivateShared/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/Debug/DebugViewEnums.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ListPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/HashSetPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/NativeArraySortPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Editor-PrivateShared/AssetCallbacks/AssetCreationUtil.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/PixelPerfectCameraTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/ShadowCaster2DTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkContainer.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/RuntimeTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/HashMapPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/QueueParallelPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ParallelHashSetPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/LightClusteringTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests.Internal/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.BurstCompatibilityGen/BurstCompatibilityTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/UnsafeListPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.ai.navigation/Tests/VerifyEditorInPlaymode/NavMeshLinkEditorTestsInPlaymode.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ArrayPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal-config/Runtime/ShaderConfig.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.shadergraph/ShaderGraphLibrary/DummyShaderGraphLibrary.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/UnsafeStreamPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Editor-PrivateShared/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/RingQueuePerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkContainerParallel.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/LightTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/Light2DTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ParallelHashMapPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.Tests.Playmode/FixedListPlaymodeTests.gen.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/QueuePerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/Deprecated.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkAllocator.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/ShaderTypes.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/DecalTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Runtime-PrivateShared/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/Debug/DebugViewEnums.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ListPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/HashSetPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/NativeArraySortPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Editor-PrivateShared/AssetCallbacks/AssetCreationUtil.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/PixelPerfectCameraTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/ShadowCaster2DTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkContainer.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/RuntimeTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/HashMapPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/QueueParallelPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ParallelHashSetPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/LightClusteringTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests.Internal/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.BurstCompatibilityGen/BurstCompatibilityTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/UnsafeListPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.ai.navigation/Tests/VerifyEditorInPlaymode/NavMeshLinkEditorTestsInPlaymode.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ArrayPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal-config/Runtime/ShaderConfig.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.shadergraph/ShaderGraphLibrary/DummyShaderGraphLibrary.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/UnsafeStreamPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Editor-PrivateShared/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4673033748527-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Assembly 'Packages/com.unity.collections/Unity.Collections.Tests/System.IO.Hashing/System.IO.Hashing.dll' will not be loaded due to errors:
+Unable to resolve reference 'System.Runtime.CompilerServices.Unsafe'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+- Loaded All Assemblies, in  1.316 seconds
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/RingQueuePerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkContainerParallel.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/LightTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/Light2DTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ParallelHashMapPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.Tests.Playmode/FixedListPlaymodeTests.gen.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/QueuePerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/Deprecated.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkAllocator.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/ShaderTypes.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/DecalTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Runtime-PrivateShared/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/Debug/DebugViewEnums.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ListPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/HashSetPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/NativeArraySortPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Editor-PrivateShared/AssetCallbacks/AssetCreationUtil.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/PixelPerfectCameraTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/ShadowCaster2DTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkContainer.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/RuntimeTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/HashMapPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/QueueParallelPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ParallelHashSetPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/LightClusteringTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests.Internal/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.BurstCompatibilityGen/BurstCompatibilityTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/UnsafeListPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.ai.navigation/Tests/VerifyEditorInPlaymode/NavMeshLinkEditorTestsInPlaymode.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ArrayPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal-config/Runtime/ShaderConfig.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.shadergraph/ShaderGraphLibrary/DummyShaderGraphLibrary.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/UnsafeStreamPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Editor-PrivateShared/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Refreshing native plugins compatible for Editor in 1.99 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/RingQueuePerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkContainerParallel.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/LightTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/Light2DTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ParallelHashMapPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.Tests.Playmode/FixedListPlaymodeTests.gen.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/QueuePerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/Deprecated.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkAllocator.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/ShaderTypes.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/DecalTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Runtime-PrivateShared/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/ShaderLibrary/Debug/DebugViewEnums.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ListPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/HashSetPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/NativeArraySortPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Editor-PrivateShared/AssetCallbacks/AssetCreationUtil.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/PixelPerfectCameraTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/ShadowCaster2DTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/BenchmarkContainer.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/RuntimeTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/HashMapPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/QueueParallelPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ParallelHashSetPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal/Tests/Runtime/LightClusteringTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests.Internal/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.BurstCompatibilityGen/BurstCompatibilityTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/UnsafeListPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.ai.navigation/Tests/VerifyEditorInPlaymode/NavMeshLinkEditorTestsInPlaymode.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/ArrayPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.universal-config/Runtime/ShaderConfig.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.shadergraph/ShaderGraphLibrary/DummyShaderGraphLibrary.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.collections/Unity.Collections.PerformanceTests/UnsafeStreamPerformanceTests.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+Script 'Packages/com.unity.render-pipelines.core/Editor-PrivateShared/AssemblyInfo.cs' will not be compiled because it exists outside the Assets folder and does not to belong to any assembly definition file.
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.245 seconds
+Domain Reload Profiling: 2548ms
+	BeginReloadAssembly (543ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (85ms)
+	RebuildCommonClasses (114ms)
+	RebuildNativeTypeToScriptingClass (40ms)
+	initialDomainReloadingComplete (120ms)
+	LoadAllAssembliesAndSetupDomain (485ms)
+		LoadAssemblies (634ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (162ms)
+			TypeCache.Refresh (150ms)
+				TypeCache.ScanAssembly (128ms)
+			BuildScriptInfoCaches (4ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1246ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (940ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (431ms)
+			ProcessInitializeOnLoadAttributes (382ms)
+			ProcessInitializeOnLoadMethodAttributes (99ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (19ms)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Terrain/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 2.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5642 unused Assets / (6.0 MB). Loaded Objects now: 6313.
+Memory consumption went from 121.1 MB to 115.1 MB.
+Total: 22.592900 ms (FindLiveObjects: 1.308800 ms CreateObjectMapping: 1.401900 ms MarkObjects: 11.351000 ms  DeleteObjects: 8.528200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 36484.768941 seconds.
+  path: Assets/Textures/NewLayer.terrainlayer
+  artifactKey: Guid(3e16f60f87e21cb44b19a969b95ba1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/NewLayer.terrainlayer using Guid(3e16f60f87e21cb44b19a969b95ba1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db764408db440d38abef823357dc632c') in 0.2703663 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Materials/PEARL.fbx
+  artifactKey: Guid(ad02eae8557a70543b66c212c90aaf9f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/PEARL.fbx using Guid(ad02eae8557a70543b66c212c90aaf9f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9e7d1f2cd9bdae7f47a3de38189e4739') in 0.4067896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Textures/NewLayer 2.terrainlayer
+  artifactKey: Guid(9e2046ac4ea72964ab326e1fe88d5712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/NewLayer 2.terrainlayer using Guid(9e2046ac4ea72964ab326e1fe88d5712) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1124099ae9986baebc20bc2db0faf976') in 0.7062026 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Textures/NewLayer 3.terrainlayer
+  artifactKey: Guid(a19fe40ee0b66bc41b4a608e61b00ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/NewLayer 3.terrainlayer using Guid(a19fe40ee0b66bc41b4a608e61b00ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '913bb650a3abfc562962088909775ab8') in 0.0443281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a86805d473498a4985cf9a8e47f883f9') in 0.0623988 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Textures/NewLayer 1.terrainlayer
+  artifactKey: Guid(b3f355a6fc0c92b4f82e9e368d12c682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/NewLayer 1.terrainlayer using Guid(b3f355a6fc0c92b4f82e9e368d12c682) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a9fecaab35203536e6281c9d90288bf3') in 0.0683179 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
